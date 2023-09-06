@@ -18,4 +18,4 @@ https://arxiv.org/abs/2308.15070
 https://0x3f3f3f3fun.github.io/projects/diffbir/
 
 ## Output
-
+![Screenshot 2023-09-06 161217](https://github.com/camenduru/DiffBIR-colab/assets/54370274/5291b63a-5511-4d1b-b369-265c94534eee)

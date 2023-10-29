@@ -8,6 +8,13 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/DiffBIR-colab/blob/main/DiffBIR_colab.ipynb) | DiffBIR_colab (Pro High-RAM 😐 15GB RAM 11GB VRAM)
 
+## 🦆 Kaggle
+
+| Kaggle | Info
+| --- | --- |
+[![open_in_kaggle_small](https://user-images.githubusercontent.com/54370274/228924833-17316feb-d0fe-4249-90ba-682930ba11e5.svg)](https://kaggle.com/camenduru/diffbir) | diffbir_kaggle (Free T4)
+
+
 ## Main Repo
 https://github.com/XPixelGroup/DiffBIR
 

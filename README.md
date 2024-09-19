@@ -7,6 +7,7 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/DiffBIR-colab/blob/main/DiffBIR_colab.ipynb) | DiffBIR_colab (Pro High-RAM 😐 15GB RAM 11GB VRAM)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/DiffBIR-colab/blob/main/DiffBIR_v2_colab.ipynb) | DiffBIR_v2_colab (Pro High-RAM 😐 15GB RAM 11GB VRAM)
 
 ## 🦆 Kaggle
 
